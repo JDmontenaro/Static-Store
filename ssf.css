@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+}
+
+header{
+  color: purple
+}
+
+
+Footer{
+color: purple;
+}
+
+h3{
+color: purple;
+}
+
+
+.Index {
+    border: 5px solid #560229;
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 0px;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
